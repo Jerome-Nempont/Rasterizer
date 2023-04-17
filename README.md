@@ -1,5 +1,7 @@
 Nempont Jérôme M2 ILJ - Faculté Jean-Perrin
 
+Projet qui consiste à convertir une image vectorielle en une image matricielle
+
 step 1 : make
 step 2 : export LD_LIBRARY_PATH=${LD_LIBRARY_PATH}:<path>/minwin/bin
 step 3 : bin/test <file.obj>
